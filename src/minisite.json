@@ -1,0 +1,6 @@
+{
+  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "family": "BAR",
+  "menuSecondColumnFrom": 7,
+  "curators": []
+}
